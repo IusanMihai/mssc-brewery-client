@@ -33,7 +33,7 @@ class BreweryClientTest {
 
         assertNotNull(uri);
 
-        System.out.println(uri.toString());
+        System.out.println(uri);
     }
 
     @Test
@@ -65,7 +65,7 @@ class BreweryClientTest {
 
         assertNotNull(uri);
 
-        System.out.println(uri.toString());
+        System.out.println(uri);
     }
 
     @Test
